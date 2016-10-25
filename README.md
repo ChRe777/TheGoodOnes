@@ -1,8 +1,8 @@
 # TheGoodOnes
 
-A collection of the good ones.
+A collection of the good ones. A try to collect the good stuff I found over the years.
 
-I believe the good ones are not mass product.
+I believe that good product could not be mass product.
 
 Good vegetables you will find on a small vegetables market of farmers.
 
@@ -16,14 +16,23 @@ Good vegetables you will find on a small vegetables market of farmers.
 
 Arc is Lisp. Paul Graham tried to get back in time and make a fresh start.
 
-Lisp basically work with seven primitives. Basic building stone.
+Lisp basically work with seven primitives. Basic building stone:
 
-car (1), cdr (2), cons (3),
-atom (4), quote (5), eq(6), cond(7)
+1. car  
+2. cdr
+3. cons
+4. atom
+5. quote
+6. eq
+7. cond
 
 The rest of the language can be written in the language itself.
 
-Graham added an eight primitives to the core. rep(8), tag(9)
+Graham added two new primitives to the core:
+
+8. rep
+9. tag
+
 With tag it is possible to "tag" a function as macro.
 
 Read Article (Some Work on Arc)(http://www.paulgraham.com/ilc03.html)
@@ -55,10 +64,10 @@ Minix drivers for insance run like programms. If a driver crash, the driver will
 
 - Design Patterns - The Gang of Four
 
-
 ## Persons
 
 - Jef Raskin [https://en.wikipedia.org/wiki/Jef_Raskin](https://en.wikipedia.org/wiki/Jef_Raskin)
 - Donald E. Knuth [https://de.wikipedia.org/wiki/Donald_E._Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth)
 - Niklaus Wirth [https://en.wikipedia.org/wiki/Niklaus_Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+- Paul Graham - [http://www.paulgraham.com/](http://www.paulgraham.com/)
 
