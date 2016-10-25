@@ -1,6 +1,8 @@
-# TheGoodOnes
+# The Good Ones
 
-A collection of the good ones. A try to collect the good stuff I found over the years.
+A collection of the good ones. 
+
+A try to collect the good stuff I found over the years.
 
 I believe that good product could not be mass product.
 
@@ -67,9 +69,17 @@ Minix drivers for instance run like programms. If a driver crash, the driver wil
 
 ### The Humane Interface
 
+The ideas is this book are still ahead of time and will be. All current interface could not
+changed because it would cause to make a fresh start. That no big company will do.
+
 - The Humane User Interface Book in Wiki (https://en.wikipedia.org/wiki/The_Humane_Interface)
 
 ## Others
+
+The basic idea of this book is to think in patterns. Keep thing simples and bring you code in order.
+The humane brain for instance is a rule (pattern) extraction machine. Kids learn a language by
+extract the pattern of the language by listen all day long to the parents. 
+Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Gehirnforschung-die-Schule-Lebens/dp/3827413966)
 
 - Design Patterns - The Gang of Four
 
