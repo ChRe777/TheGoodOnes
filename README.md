@@ -16,7 +16,7 @@ Good vegetables you will find on a small vegetables market of farmers.
 
 Arc is Lisp. Paul Graham tried to get back in time and make a fresh start.
 
-Lisp basically work with seven primitives. Basic building stone:
+Lisp basically work with 7 primitives. Basic building stones:
 
 1. car  
 2. cdr
@@ -26,14 +26,18 @@ Lisp basically work with seven primitives. Basic building stone:
 6. eq
 7. cond
 
-The rest of the language can be written in the language itself.
+The rest of the language can be written in the language itself by using this stones.
+I call it the [Lego](https://en.wikipedia.org/wiki/Lego) principle. 
+The 7 primitives of Lisp remembers me on a set of basic bricks in Lego. 
 
-Graham added two new primitives to the core:
+Graham added 3 new primitives to the core:
 
 8. rep
 9. tag
+10. type
 
-With tag it is possible to "tag" a function as macro.
+For instance with tag it is possible to "tag" a function as macro and use this 
+information in eval to do a macex.
 
 Read the Article ('Some Work on Arc') (http://www.paulgraham.com/ilc03.html)
 
