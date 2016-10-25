@@ -35,7 +35,7 @@ Graham added two new primitives to the core:
 
 With tag it is possible to "tag" a function as macro.
 
-Read Article (Some Work on Arc)(http://www.paulgraham.com/ilc03.html)
+Read the Article ('Some Work on Arc') (http://www.paulgraham.com/ilc03.html)
 
 - Arc Language Homepage of Paul Graham [http://arclanguage.org/](http://arclanguage.org/)
 
@@ -43,14 +43,19 @@ Read Article (Some Work on Arc)(http://www.paulgraham.com/ilc03.html)
 
 ### Oberon
 
-It is a small elegant operating system. It was ahead his time and still is.
+It is a small elegant operating system. It was ahead of his time and still is.
 
 - ETH Oberon Home Page [http://www.ethoberon.ethz.ch/](http://www.ethoberon.ethz.ch/)
 
 ### Minix
 
-Minix has a small stable kernel. The kernel could be overseen by one person.
-Minix drivers for insance run like programms. If a driver crash, the driver will be restarted. 
+Minix has a small stable kernel. 
+
+A kernel is like the heart of the body it should never stop working.
+
+The kernel could be overseen by one person.
+
+Minix drivers for instance run like programms. If a driver crash, the driver will be restarted. 
 
 - Minix 3 Homepage [http://www.minix3.org/](http://www.minix3.org/)
 
