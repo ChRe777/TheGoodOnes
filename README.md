@@ -65,6 +65,10 @@ Minix drivers for instance run like programms. If a driver crash, the driver wil
 
 - Minix 3 Homepage [http://www.minix3.org/](http://www.minix3.org/)
 
+### BeOS / Haiku OS
+
+Haiku OS is the open source project of BeOS. Build on NewOS Kernel.
+
 ## User Interface
 
 ### The Humane Interface
