@@ -37,6 +37,8 @@ I believe that the examples in MSDN leads to bad programer pratice we all face o
 If a example writer writes an example of for instance loading something from the db and
 put into a dataview. He leads people to do this is production code. 
 The purpose was to give a simple example. But in reality you should not do that.
+A good programer would do this in the event handler. But write a command and has different
+layers in the code. Would have an api. Would a MVP Pattern or some layers of abstractions. Whatever.
 
 ## Programming Languages
 
