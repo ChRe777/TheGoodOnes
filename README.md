@@ -15,6 +15,15 @@ I believe in the lego principe And keep it simple.
 Most projects I saw with high level of complexity. 
 That means you have no simple lego stones, but very complex one.
 
+## APIs
+
+I believe that it much better not to be bride and get a hacker, but rather look
+at good apis and look how they made it then to create your own one's.
+
+### Maya API
+
+http://docs.autodesk.com/MAYAUL/2014/ENU/Maya-API-Documentation/
+
 ## Programming Languages
 
 ### Oberon 2
