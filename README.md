@@ -11,6 +11,10 @@ I believe that good product could not be mass product.
 
 Good vegetables you will find on a small vegetables market of farmers.
 
+I believe in the lego principe And keep it simple. 
+Most projects I saw with high level of complexity. 
+That means you have no simple lego stones, but very complex one.
+
 ## Programming Languages
 
 ### Oberon 2
