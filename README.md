@@ -1,8 +1,11 @@
 # The Good Ones
 
+Today it is hard to find some good ones. Because everyone had their opinions 
+(and opinions are often like noses) how to develop software.
+
 A collection of the good ones. 
 
-A try to collect the good stuff I found over the years.
+A try to collect the good stuff I found over past the years (since 2000)
 
 I believe that good product could not be mass product.
 
