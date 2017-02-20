@@ -31,6 +31,13 @@ at good apis and look how they made it then to create your own one's.
 
 http://docs.autodesk.com/MAYAUL/2014/ENU/Maya-API-Documentation/
 
+### MSDN - Examples lead to Bad Code
+
+I believe that the examples in MSDN leads to bad programer pratice we all face of our colleagues.
+If a example writer writes an example of for instance loading something from the db and
+put into a dataview. He leads people to do this is production code. 
+The purpose was to give a simple example. But in reality you should not do that.
+
 ## Programming Languages
 
 ### Oberon 2
