@@ -15,6 +15,13 @@ I believe in the lego principe And keep it simple.
 Most projects I saw with high level of complexity. 
 That means you have no simple lego stones, but very complex one.
 
+## Design
+
+Design a software like building a house. First you need to know what to build.
+Make a plan and build if up layer by layer. Do not build the house from the roof.
+But always have the overview of the end result. Most do not know the end result, build something and change it and change it.
+If you change to often you get in a total mess which needs a lot of energy to keep it alive.
+
 ## APIs
 
 I believe that it much better not to be bride and get a hacker, but rather look
