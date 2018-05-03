@@ -165,3 +165,9 @@ Some interesting from the book [Living with Complexity - Chapter 1](https://www.
 > The **definition for “complicated”** includes as a secondary meaning “confusing,* which is what I am concerned with in my definition of that word. 
 > I use the word “complex” to describe the state of the world, the tasks we do, and the tools we use to deal with them. I use the word “complicated” or “confused” to describe the psychological state of a person in attempting to understand, use, or interact with  something in the world. Princeton University’s WordNet program makes this point by suggesting that “complicated” means “puzzling complexity.” 
 ```
+
+### Subject: Technical Documentation
+
+Writing technical documents to grap fast the information:
+
+Dr. Klaus Hofer about [usabilitymapping.com](http://usabilitymapping.com/what-is-usability-mapping/)
