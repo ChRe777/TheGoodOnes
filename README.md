@@ -141,5 +141,17 @@ Several ways to increase the [bus factor](https://en.wikipedia.org/wiki/Bus_fact
 - Donald A. Norman - [Living with Complexity - Chapter 1](https://www.jnd.org/dn.mss/LWCChapter1.pdf)
 
 
+#### Some interesting Rules 
+
+Some interesting Rules from the book [The Art of Unix Programming](http://nakamotoinstitute.org/static/docs/taoup.pdf).
+
+1. Rule of Modularity: Write simple parts connected by clean interfaces.
+2. Rule of Clarity: Clarity is better than cleverness.
+3. Rule of Composition: Design programs to be connected to other programs.
+4. Rule of Separation: Separate policy from mechanism; separate interfaces from engines.
+5. Rule of Simplicity: Design for simplicity; add complexity only where you must.
+6. Rule of Parsimony: Write a big program only when it is clear by demonstration that nothing else will do.
+7. Rule of Transparency: Design for visibility to make inspection and debugging easier.
+8. Rule of Robustness: Robustness is the child of transparency and simplicity.
 
 
