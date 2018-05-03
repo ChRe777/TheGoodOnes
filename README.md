@@ -126,3 +126,14 @@ Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Geh
 - Niklaus Wirth [https://en.wikipedia.org/wiki/Niklaus_Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 - Paul Graham - [http://www.paulgraham.com/](http://www.paulgraham.com/)
 
+## Books/Articles
+
+### Subject: Simplicity 
+
+- Eric S. Raymond - [The Art of Unix Programming](http://nakamotoinstitute.org/static/docs/taoup.pdf)
+- Niklaus Wirth - [The School of Niklaus Wirth: The Art of Simplicity](https://www.amazon.de/School-Niklaus-Wirth-Art-Simplicity/dp/1558607234)
+- Donald A. Norman - [Living with Complexity - Chapter 1](https://www.jnd.org/dn.mss/LWCChapter1.pdf)
+
+
+
+
