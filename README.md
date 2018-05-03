@@ -128,7 +128,13 @@ Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Geh
 
 ## Books/Articles
 
-### Subject: Simplicity 
+Several ways to increase the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) have been proposed:
+
+    - Reduce complexity
+    - Document all processes and keep that documentation up-to-date
+    - Encourage cross-training.
+
+### Subject: Simplicity (Reduce Complexity)
 
 - Eric S. Raymond - [The Art of Unix Programming](http://nakamotoinstitute.org/static/docs/taoup.pdf)
 - Niklaus Wirth - [The School of Niklaus Wirth: The Art of Simplicity](https://www.amazon.de/School-Niklaus-Wirth-Art-Simplicity/dp/1558607234)
