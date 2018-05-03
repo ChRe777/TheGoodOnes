@@ -130,9 +130,9 @@ Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Geh
 
 Several ways to increase the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) have been proposed:
 
-    - Reduce complexity
-    - Document all processes and keep that documentation up-to-date
-    - Encourage cross-training.
+* Reduce complexity
+* Document all processes and keep that documentation up-to-date
+* Encourage cross-training.
 
 ### Subject: Simplicity (Reduce Complexity)
 
