@@ -158,17 +158,14 @@ Some interesting Rules from the book [The Art of Unix Programming](http://nakamo
 
 Some interesting from the book [Living with Complexity - Chapter 1](https://www.jnd.org/dn.mss/LWCChapter1.pdf)
 
-I distinguish between **complexity** and **complicated**. I use the 
-word “complexity” to *describe a state of the world*. The word 
-“complicated” describes a *state of mind*. The dictionary defini-
-tion for “complexity” suggests things with many intricate and in-
-terrelated parts, which is just how I use the term. The definition 
-for “complicated” includes as a secondary meaning “confusing,” 
-which is what I am concerned with in my definition of that word. 
-I use the word “complex” to describe the state of the world, the
-tasks we do, and the tools we use to deal with them. I use the 
-word “complicated” or “confused” to describe the psychological 
-state of a person in attempting to understand, use, or interact with 
-something in the world. Princeton University’s WordNet program 
-makes this point by suggesting that “complicated” means “puz-
-zling complexity.” 
+I distinguish between **complexity** and **complicated**. 
+
+I use the word “complexity” to *describe a state of the world*. 
+The word “complicated” describes a *state of mind*. 
+
+The dictionary **definition for “complexity”** suggests things with many intricate and interrelated parts, which is just how I use the term. 
+
+The **definition for “complicated”** includes as a secondary meaning “confusing,* which is what I am concerned with in my definition of that word. 
+
+I use the word “complex” to describe the state of the world, the tasks we do, and the tools we use to deal with them. I use the 
+word “complicated” or “confused” to describe the psychological state of a person in attempting to understand, use, or interact with  something in the world. Princeton University’s WordNet program makes this point by suggesting that “complicated” means “puzzling complexity.” 
