@@ -188,6 +188,44 @@ Some interesting Rules from the book [The Art of Unix Programming](http://nakamo
 7. **Rule of Transparency**: Design for visibility to make inspection and debugging easier.
 8. **Rule of Robustness**: Robustness is the child of transparency and simplicity.
 
+
+#### Rule of Modularity: Write simple parts connected by cleaninterfaces.
+
+As Brian Kernighan once observed, “Controlling complexity is the essence of computer programming”
+[Kernighan-Plauger]. Debugging dominates development time, and getting a working system
+out the door is usually less a result of brilliant design than it is of managing not to trip over your
+own feet too many times.
+Assemblers, compilers, flowcharting, procedural programming, structured programming, “artificial
+intelligence”, fourth-generation languages, *object orientation*, and software-development methodologies
+without number have been touted and *sold as a cure for this problem*. **All have failed** as
+cures, if only because they ‘succeeded’ by escalating the normal level of program complexity to
+the point where (once again) human brains could barely cope. As Fred Brooks famously observed
+[Brooks], there is no silver bullet.
+The **only way to write complex software** that won’t fall on its face is to hold its global complexity
+down — to build it out of **simple parts connected by well-defined interfaces**, so that most **problems
+are local** and you can have some hope of **upgrading a part without breaking the whole.**
+
+#### Rule of Clarity: Clarity is better than cleverness.
+
+Because **maintenance is so important and so expensive**, write programs as if the most important
+communication they do is not to the computer that executes them but to the **human** beings who will
+**read** and **maintain** the source code in the future (including yourself).
+In the Unix tradition, the implications of this advice go beyond just **commenting your code**. Good
+Unix practice also embraces choosing your algorithms and implementations for future maintainability.
+Buying a small increase in performance with a **large increase** in the **complexity and obscurity**
+of your technique is a bad trade — not merely because complex code is more likely to harbor bugs,
+but also because complex code will be harder to read for future maintainers.
+Code that is graceful and clear, on the other hand, is less likely to break — and more likely to be
+instantly comprehended by the **next person to have to change it**. This is important, especially when
+that next person might be yourself some years down the road.
+
+  Never struggle to decipher subtle code three times. Once might be a one-shot
+  fluke, but if you find yourself having to figure it out a second time — because the
+  first was too long ago and you’ve forgotten details — it is **time to comment the
+  code** so that the **third time** will be relatively **painless**.
+  —
+  HenrySpencer
+
 #### Complexity vs. complicated
 
 Some interesting from the book [Living with Complexity - Chapter 1](https://www.jnd.org/dn.mss/LWCChapter1.pdf)
