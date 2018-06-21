@@ -174,10 +174,73 @@ Several ways to increase the [bus factor](https://en.wikipedia.org/wiki/Bus_fact
 - Niklaus Wirth - [The School of Niklaus Wirth: The Art of Simplicity](https://www.amazon.de/School-Niklaus-Wirth-Art-Simplicity/dp/1558607234)
 - Donald A. Norman - [Living with Complexity - Chapter 1](https://www.jnd.org/dn.mss/LWCChapter1.pdf)
 
+### The Art of Unix Programming - Eric S. Raymond
 
-#### Some interesting Rules 
+Book [The Art of Unix Programming](http://nakamotoinstitute.org/static/docs/taoup.pdf).
 
-Some interesting Rules from the book [The Art of Unix Programming](http://nakamotoinstitute.org/static/docs/taoup.pdf).
+#### Basics of the Unix Philosophy ####
+
+The *Unix philosophy* originated with *Ken Thompson’s* early meditations on how to **design a small**
+but capable operating system with a **clean service interface**. It grew as the Unix culture learned
+things about how to get maximum leverage out of Thompson’s design. It absorbed lessons from
+many sources along the way.
+The Unix philosophy is not a formal design method. It wasn’t handed down from the high fastnesses
+of theoretical computer science as a way to produce theoretically perfect software. Nor is it that
+perennial executive’s mirage, some way to magically extract innovative but reliable software on too
+short a deadline from unmotivated, badly managed, and underpaid programmers.
+The Unix philosophy (like successful folk traditions in other **engineering disciplines**) is **bottom-up**,
+not top-down. It is pragmatic and grounded in experience. It is not to be found in official methods
+and standards, but rather in the implicit half-reflexive knowledge, the expertise that the Unix culture
+transmits. It encourages a sense of proportion and skepticism — and shows both by having a sense
+of (often subversive) humor.
+*Doug McIlroy*, the inventor of **Unix pipes** and one of the founders of the Unix tradition, had this to
+say at the time [McIlroy78]:
+
+**(i)** Make each program do one thing well. To do a new job, build afresh rather
+than complicate old programs by adding new features.
+
+**(ii)** Expect the output of every program to become the input to another, as yet
+unknown, program. Don’t clutter output with extraneous information. Avoid
+stringently columnar or binary input formats. Don’t insist on interactive input.
+
+**(iii)** Design and build software, even operating systems, to be tried early, ideally
+within weeks. Don’t hesitate to throw away the clumsy parts and rebuild them.
+
+**(iv)** Use tools in preference to unskilled help to lighten a programming task, even
+if you have to detour to build the tools and expect to throw some of them out after
+you’ve finished using them.
+
+He later summarized it this way (quoted in A Quarter Century of Unix [Salus]):
+
+  This is the Unix philosophy: Write programs that **do one thing** and **do it well**.
+Write programs to **work together**. Write programs to handle **text streams**, because
+that is a **universal interface**.
+
+*Rob Pike*, who became one of the great masters of C, offers a slightly different angle in Notes on C
+Programming [Pike]:
+
+  Rule 1. You can’t tell where a program is going to spend its time. Bottlenecks
+occur in surprising places, so don’t try to second guess and put in a speed hack
+until you’ve proven that’s where the bottleneck is.
+  Rule 2. Measure. Don’t tune for speed until you’ve measured, and even then don’t
+unless one part of the code overwhelms the rest.
+  Rule 3. Fancy algorithms are slow when n is small, and n is usually small. Fancy
+algorithms have big constants. Until you know that n is frequently going to be
+big, don’t get fancy. (Even if n does get big, use Rule 2 first.)
+  Rule 4. Fancy algorithms are buggier than simple ones, and they’re much harder
+to implement. Use **simple algorithms** as well as **simple data structures**.
+  Rule 5. Data dominates. If you’ve chosen the **right data structures** and **organized
+things well**, the algorithms will almost always be self-evident. Data structures,
+not algorithms, are central to programming.9
+  Rule 6. There is no Rule 6.
+  
+*Ken Thompson*, the man who designed and implemented the first Unix, reinforced Pike’s rule 4 with
+a gnomic maxim worthy of a Zen patriarch:
+  
+  When in doubt, use brute force.
+
+More of the Unix philosophy was implied not by what these elders said but by what they did and the
+example Unix itself set. Looking at the whole, we can abstract the following ideas:
 
 1. **Rule of Modularity**: Write simple parts connected by clean interfaces.
 2. **Rule of Clarity**: Clarity is better than cleverness.
