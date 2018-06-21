@@ -125,6 +125,8 @@ Plan 9 from Bell Labs was originally developed, starting mid-1980s, by members o
 
 ### Fuchsia OS (Google)
 
+Fuchsia is a capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on GitHub in August 2016 without any official announcement. In contrast to prior Google-developed operating systems such as Chrome OS and Android, which are based on Linux kernels, Fuchsia is based on a new microkernel called **"Zircon"**, derived from **"Little Kernel"**,[1][2] a small operating system intended for embedded systems, which was developed by *Travis Geiselbrecht*, a creator of the *NewOS* kernel used by *Haiku OS*.
+
 ### Little Kernel
 
 LK (Little Kernel) is a tiny operating system suited for small embedded devices, bootloaders, and other environments where OS primitives like threads, mutexes, and timers are needed, but there’s a desire to keep things small and lightweight. On embedded ARM platforms the core of LK is typically 15-20 KB.
