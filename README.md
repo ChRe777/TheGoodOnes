@@ -99,7 +99,21 @@ Minix drivers for instance run like programms. If a driver crash, the driver wil
 
 ### BeOS / Haiku OS
 
-Haiku OS is the open source project of BeOS. Build on NewOS Kernel.
+Haiku OS is the open source project of BeOS. Build on NewOS Kernel 
+
+### Plan9
+
+#### History (see Wiki)
+
+Plan 9 from Bell Labs was originally developed, starting mid-1980s, by members of the Computing Science Research Center at Bell Labs, the same group that originally developed Unix and C.[8] The Plan 9 team was initially led by *Rob Pike*, *Ken Thompson*, *Dave Presotto* and Phil Winterbottom, with support from *Dennis Ritchie* as head of the Computing Techniques Research Department. Over the years, many notable developers have contributed to the project including Brian Kernighan, Tom Duff, *Doug McIlroy*, *Bjarne Stroustrup* and Bruce Ellis.[9]
+
+### Fuchsia OS (Google)
+
+### Little Kernel
+
+LK (Little Kernel) is a tiny operating system suited for small embedded devices, bootloaders, and other environments where OS primitives like threads, mutexes, and timers are needed, but there’s a desire to keep things small and lightweight. On embedded ARM platforms the core of LK is typically 15-20 KB.
+
+LK was made by [Travis Geiselbrecht](https://github.com/travisg) see [Github](https://github.com/littlekernel/lk/)
 
 ## User Interface
 
