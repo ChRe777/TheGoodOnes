@@ -42,6 +42,22 @@ layers in the code. Would have an api. Would a MVP Pattern or some layers of abs
 
 ## Programming Languages
 
+### Go
+
+Go (often referred to as Golang) is a programming language created at Google[11] in 2009 by *Robert Griesemer*, *Rob Pike*, and *Ken Thompson*.[9] Go is a statically typed compiled language in the tradition of C, with memory safety, garbage collection, structural typing,[2] and CSP-style concurrent programming features added.[12] The compiler, tools and source code are all free and open source.[13]
+
+Go is recognizably in the tradition of C, but makes many changes to improve brevity, simplicity, and safety. The language consists of:
+
+A syntax and environment adopting patterns more common in dynamic languages:[27]
+* Optional concise variable declaration and initialization through type inference (x := 0 not int x = 0; or var x = 0;).
+   * Fast compilation times.[28]
+   * Remote package management (go get)[29] and online package documentation.[30]
+* Distinctive approaches to particular problems:
+  * Built-in concurrency primitives: light-weight processes (goroutines), channels, and the select statement.
+  * An interface system in place of virtual inheritance, and type embedding instead of non-virtual inheritance.
+  * A toolchain that, by default, produces **statically linked native binaries** **without external dependencies.**
+  * A desire to keep the language specification simple enough to hold in a programmer's head,[31] in part by omitting features which are common in similar languages.
+
 ### Oberon 2
 
 - Oberon Compilers and Language reference material [http://www.ethoberon.ethz.ch/compiler](http://www.ethoberon.ethz.ch/compiler/index.html#report)
@@ -140,6 +156,10 @@ Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Geh
 - Niklaus Wirth [https://en.wikipedia.org/wiki/Niklaus_Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 - Paul Graham - [http://www.paulgraham.com/](http://www.paulgraham.com/)
 
+- Ken Tompson
+- Dennis Ritchie
+
+
 ## Books/Articles
 
 Several ways to increase the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) have been proposed:
@@ -184,3 +204,31 @@ Some interesting from the book [Living with Complexity - Chapter 1](https://www.
 I had a one day class about **technial Writing** documents held by Dr. Klaus Hofer from [usabilitymapping.com](http://usabilitymapping.com/what-is-usability-mapping/)
 
 [Klaus Hofer Linked In](https://ca.linkedin.com/in/klaus-hofer-0547a41)
+
+# Personal Experience 
+
+## Good advice is expensive
+
+* Never build huge monolith software system.
+
+You will after years always end with a [Leaning Tower of Pisa](https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa)
+In beginning you do not see that you build a leaning tower that will fall down. You will see it when it is to late.
+
+* Build small modular components
+
+Better is to build small components. Like small leaning towers. 
+But if you see that one (of many) tower is going to become oblique then stop.
+Never build a tower with 54 levels if the tower is oblique on the first level.
+
+A Software goes into production and the leaning towers is full of people
+you can not easy get refactor this building. This is the same with software.
+Never build monotlith. They will get monsters sooner or later. And then it is
+to late.
+
+For example I believe Linux is a monolith compared to Minix Os. Which is a much better approach.
+
+
+
+
+
+
