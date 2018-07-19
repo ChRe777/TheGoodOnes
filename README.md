@@ -205,7 +205,7 @@ Well, I think it depends also on who one is and what one can afford to do at a
 point in time. And "afford" isn't necessarily only measured in dollars :)
 
 
-I would much rather spend $200 on a slick Plan9 box, but I can't afford, given 
+I would much rather spend **$200 on a slick Plan9 box**, but I can't afford, given 
 my current state of texpertise, to risk a government-funded project on a 
 research O/S where support is more difficult. So an Apple it is, for the time 
 being (for a lot less than $5000, btw...)
@@ -247,8 +247,8 @@ been built around running on a variety of hardware and
 today runs on everything from tiny gumstix machines to
 Blue Gene/P.
 
-The second major approach is *running Plan 9 on* simulators
-and *virtual machines*.  Most of us have had varying degrees
+The second major approach is **running Plan 9 on** simulators
+and **virtual machines**.  Most of us have had varying degrees
 of success running Plan 9 "networks" on instances of qemu
 or vmware or xen or...  This is a pretty good way to mitigate
 the hardware support issues.  It's also a nice way to set up
@@ -288,8 +288,8 @@ Because I'm away from my home network, I'm running 9vx
 with the the root on my local machine.  When I'm at home, I
 use 9vx booting with its root taken from a real Plan 9 file
 server.  I also run it on qemu fairly often.  The bottom line
-is that there are quite a *variety of ways to work with Plan 9*
-and they *are all useful* in their own ways.
+is that there are quite a **variety of ways to work with Plan 9**
+and they **are all useful** in their own ways.
 
 I've been too long-winded as it is, so I'll stop now.  Hopefully,
 I haven't said anything that's too far off base.
@@ -304,7 +304,7 @@ Because on one of these days some big company (hint: where are the ex Bell
 Labsers working with a very much Plan 9 / inferno / Limbo insipired new
 programming language) adopts the Plan 9 / Inferno in a a more or less varied
 incarnation. I could imagine Android having a new kernel not tied to Java
-only, and supporting a *rich ecosystem of distributed 9P objects*...
+only, and supporting a **rich ecosystem of distributed 9P objects**...
 
 
  It is going to be big. It does not have to be **Google**. Someone will do it. I
@@ -318,26 +318,26 @@ replaced by "remote file access"*. And at the same time with file system
 union directories you can also "inherit" and "augment" any of the
 "services". This essentially gioves you distributed objects (with natural
 persistence option). And this all can be done *securely with authenticator*
-handles and the Factotum agent. *It is safe enough* to be run over the *public
-internet*.
+handles and the Factotum agent. **It is safe enough** to be run over the **public
+internet**.
 
 Anssi
 
 ---
 
-the *twitter example* you gave is perhaps too simple, could the tweets
-not just be text written to a *publicly writable file*. the users could connect
+the **twitter example** you gave is perhaps too simple, could the tweets
+not just be text written to a **publicly writable file**. the users could connect
 with 9p but as the user none son they will need no auth.
 
 
-better examples of the everything is a *file aproach are wikifs* (a file server 
+**better examples** of the everything is a **file aproach are wikifs** (a file server 
 which
-prvides *virtual files* for the httpd server (or any normal 9p file client)
+prvides **virtual files** for the httpd server (or any normal 9p file client)
 to access and stores a database of wiki pages.
 http://plan9.bell-labs.com/magic/man2html/4/wikifs
 
-the cassic example is using a *plan9 server* as a gateway machine across a 
-firewall.
+the cassic example is using a **plan9 server** as a **gateway machine across a 
+firewall**.
 This machine is dual homed and all machines inside the firewall are isolated.
 when one of these machines wants to connect to somone outside the firewall they
 can just import the gateway's /net.alt over the top of their own. (by tradition
@@ -345,7 +345,7 @@ the primary interface is mounted on /net and the seccondary at /net.alt)
 
 Now any DNS lookup and  socket connection will be made using the gateway's 
 internet
-facing NIC. This is all done using the 9p protocol, no clever IP routing etc.
+facing NIC. This is all done using the **9p protocol**, no clever IP routing etc.
 if the 9p connection to the hateway happens to come over an ssh session,
 ppp, or pigeon, it doesn't matter, you are sharing files, and these particular
 files give you access to that machines network interface.
@@ -363,24 +363,24 @@ For any use-case I personally care about (and probably any
 workstation/server use case you care about as well,) the Linux kernel
 with the GNU userspace will blow anything out of the water, both in
 performance and usability. If you don't recognize this you're sticking
-your head in the sand. I know P9 is faster in many ways, but have you
+your head in the sand. I know **P9 is faster** in many ways, but have you
 tried comparing performance figures with, say, browser rendering times,
 Doom 3, or some video transcoder? Exactly.
 
 
-However, projects like Linux and P9 can and *should* coexist, because
+However, projects like Linux and P9 can and should coexist, because
 they complement each other. The developers of research OSs get a lot
 more freedom to do research advance the state of the art. In fact, I'd
 say P9 has contributed at least as much to the state of open-source OS
 development as Linux has. Certainly, the Linux kernel uses a lot of
-techniques that could *only* have been *incubated within a research OS*.
+techniques that could **only** have been **incubated within a research OS**.
 (/proc... what a wacky idea! But a good one.)
 
 So, there are two reasons to use (and port your software to) Plan 9.
 -First of all, you get a preview of what Unix development is probably
 going to look like in a few years-- increased depreciation of ASCII for
 Unicode, resource shared between computers, and so on. 
--Second of all, Plan 9 is just *SO DAMN FUN to play with*.
+-Second of all, Plan 9 is just **SO DAMN FUN to play with**.
 
 -Max
 
