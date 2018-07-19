@@ -384,6 +384,26 @@ Unicode, resource shared between computers, and so on.
 
 -Max
 
+---
+
+2010/10/12 Max E <maxxed...@comcast.net>:
+> For any use-case I personally care about (and probably any
+> workstation/server use case you care about as well,) the Linux kernel
+> with the GNU userspace will blow anything out of the water, both in
+> performance and usability.
+
+
+I don't think the GNU userspace is more usable. Compare the bash and
+rc man pages and tell me which one you find easier to use. From my
+point of view **consistency and simplicity** **increase usability**. Both of
+these **qualities are difficult to find** in *GNU software*.. If you don't
+recognize this *you're sticking your head in the sand*.
+
+-- 
+- yiyus || JGL . 4l77.com
+
+
+
 
 
 #### Design of Plan9
