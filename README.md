@@ -130,13 +130,13 @@ https://www.mail-archive.com/9fans@9fans.net/msg17073.html
 Most of the people who can answer best are currently at the Plan 9 Workshop
 (http://www.iwp9.org/), so they'll doubtless chip in a wee bit later.
 
-Plan 9 is a research OS that has had a *quite amazing impact* on most other
-Unix type OSes. For example: UTF-8, process filesystem (generalised to "use
-a filesystem as a well defined abstraction mechanism"), recursive window
-systems (ie. a full windowing system inside a window, not 100% sure who did
-it first, but the Plan 9 one is *amazingly consistent* and so *easy to use* it
-makes others look clunky), and *full historical filesystem* (*remember
-everything you ever did using snapshots*).
+Plan 9 is a research OS that has had a **quite amazing impact** on most other
+Unix type OSes. For example: **UTF-8**, **process filesystem** (generalised to "use
+a filesystem as a well defined abstraction mechanism"), **recursive window
+systems** (ie. a full windowing system inside a window, not 100% sure who did
+it first, but the Plan 9 one is **amazingly consistent** and so **easy to use** it
+makes others look clunky), and **full historical filesystem** (**remember
+everything you ever did using snapshots**).
 
 Plan 9 is not a polished end user OS!
 
@@ -151,10 +151,10 @@ that includes Plan 9 as an example. Not sure how they fit into a holistic
 view. They're more like pragmatic ways forward when you can't (or don't want
 to) run a stand alone OS.
 
-One of the *great things* in Plan 9 is the *readability of the code*. You can
-actually dive in and *see how it all works* without needing an augmented
+One of the **great things** in Plan 9 is the **readability of the code**. You can
+actually dive in and **see how it all works** without needing an augmented
 brain. Although it may require adjusting your thinking to a "let's try to
-*manage all this complexity* a bit better" mindframe. And that can take a bit
+**manage all this complexity** a bit better" mindframe. And that can take a bit
 of time and effort. But it's well worth it.
 
 Robby
