@@ -136,7 +136,9 @@ a filesystem as a well defined abstraction mechanism"), **recursive window
 systems** (ie. a full windowing system inside a window, not 100% sure who did
 it first, but the Plan 9 one is **amazingly consistent** and so **easy to use** it
 makes others look clunky), and **full historical filesystem** (**remember
-everything you ever did using snapshots**). [https://en.wikipedia.org/wiki/Fossil_(file_system)](Fossil)
+everything you ever did using snapshots**). 
+[https://en.wikipedia.org/wiki/Fossil_(file_system)](Fossil)
+https://en.wikipedia.org/wiki/Fossil_(file_system)
 
 Plan 9 is not a polished end user OS!
 
