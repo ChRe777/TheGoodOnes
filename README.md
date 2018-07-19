@@ -624,7 +624,7 @@ you can not easy get refactor this building. This is the same with software.
 Never build monotlith. They will get monsters sooner or later. And then it is
 to late.
 
-For example I believe Linux is a monolith compared to Minix Os. Which is a much better approach.
+For example I believe Linux is a monolith compared to Plan9 OS or Oberon OS. Which is a much better approach.
 
 
 
