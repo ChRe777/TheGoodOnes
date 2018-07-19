@@ -402,10 +402,6 @@ recognize this *you're sticking your head in the sand*.
 -- 
 - yiyus || JGL . 4l77.com
 
-
-
-
-
 #### Design of Plan9
 
 [http://doc.cat-v.org/plan_9/1st_edition/designing_plan_9] (DESIGNING PLAN 9)
@@ -413,6 +409,10 @@ recognize this *you're sticking your head in the sand*.
 #### History (see Wiki)
 
 Plan 9 from Bell Labs was originally developed, starting mid-1980s, by members of the Computing Science Research Center at Bell Labs, the same group that originally developed Unix and C.[8] The Plan 9 team was initially led by *Rob Pike*, *Ken Thompson*, *Dave Presotto* and Phil Winterbottom, with support from *Dennis Ritchie* as head of the Computing Techniques Research Department. Over the years, many notable developers have contributed to the project including Brian Kernighan, Tom Duff, *Doug McIlroy*, *Bjarne Stroustrup* and Bruce Ellis.[9]
+
+#### Useful Links
+
+[http://www.iwp9.org/](Papers and Slides from *8th International Workshop on Plan 9*)
 
 ### Fuchsia OS (Google)
 
