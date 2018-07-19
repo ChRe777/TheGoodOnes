@@ -163,7 +163,7 @@ Robby
 
 > why anyone should care about Plan 9 anyway
 
-Because: *getting things right the first time* around is much more of a
+Because: **getting things right the first time** around is much more of a
 practical matter than you may at first realize.
 
 
@@ -173,8 +173,8 @@ Nick
 
 Very succinct, and better than I could do 'til the coffee kicks in.
 
-You could have *pointed out* that the *entire source tree is smaller than
-the gcc manual.*
+You could have **pointed out** that the **entire source tree is smaller than
+the gcc manual.**
 
 
 But as I say - do what you like. I know people who would rather spend
@@ -185,17 +185,17 @@ Just the semi-delirious jots from early morning brucee.
 
 ---
 
-*getting it right*:
+**getting it right**:
 
-- *less code* in plan 9 than in most configure scripts (hard to believe but true)
+- **less code** in plan 9 than in most configure scripts (hard to believe but true)
 - plan 9 memory management code is 1 file, linux is 55
 - almost no assembly in plan 9 ; # lines  assembly is GROWING in linux
 - growth of linux code size is exponential (this is part of the
 getting it right issue)
 
 
-it's *always good to have a system* that gets closer to *getting it right*
-around, as a *reminder if nothing else*.
+it's **always good to have a system** that gets closer to **getting it right**
+around, as a **reminder if nothing else**.
 
 ron
 
@@ -213,8 +213,8 @@ being (for a lot less than $5000, btw...)
 That's not to denigrate Plan9 by any means. I'm looking at it, like it, and 
 hope to continue learning the ropes. But at the immediate moment, I don't 
 really have a realistic choice, even given that the help I've got from people 
-on this list has been *fantastic*. So for me, the short term solution is the 
-Apple, and ideally, the *long-term solution will be Plan9*.
+on this list has been **fantastic**. So for me, the short term solution is the 
+Apple, and ideally, the **long-term solution will be Plan9**.
 
 KarkJurgen
 
@@ -229,9 +229,9 @@ the computer, and UNIX networking was kind of bolted onto
 the side of the system.  Similarly, graphical interaction had
 become ubiquitous well after UNIX had originally been designed.
 The way I like to describe it is that the Bell Labs guys at this
-time decided to take *20 years of UNIX experience* and *start
-over again* and *do it right*, applying that experience.  The
-result was Plan 9.
+time decided to take **20 years of UNIX experience** and **start
+over again** and **do it right**, applying that experience.  The
+**result was Plan 9**.
 
 There are 5 main approaches to having the Plan 9 experience.
 First, the "real" Plan 9 experience requires a network of machines
@@ -307,12 +307,12 @@ incarnation. I could imagine Android having a new kernel not tied to Java
 only, and supporting a *rich ecosystem of distributed 9P objects*...
 
 
- It is going to be big. It does not have to be Google. Someone will do it. I
+ It is going to be big. It does not have to be **Google**. Someone will do it. I
 hope. *Wish. Dream.*
 
 In the end I can't make up my mind, about what is the *single greatest idea*
-in the Plan 9 culture. But if pressed I suggest it is *9P* and the idea, that
-we really *do not need protocols* above the network layer, but HTTP, SMTP,
+in the Plan 9 culture. But if pressed I suggest it is **9P** and the idea, that
+we really **do not need protocols** above the network layer, but HTTP, SMTP,
 DNS, SOAP, IIOP, IMAP, IRC, SSH, SSL, TP, SNMP and hundred others can *all be
 replaced by "remote file access"*. And at the same time with file system
 union directories you can also "inherit" and "augment" any of the
