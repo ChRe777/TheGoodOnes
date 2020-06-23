@@ -15,6 +15,12 @@ I believe in the lego principe And keep it simple.
 Most projects I saw with high level of complexity. 
 That means you have no simple lego stones, but very complex one.
 
+## Keep it simple (as possible)
+
+It seems that everyone one knows or heard this statement, but more me it seems nobody is doing it. This is a provocant statement that nobody doing that. But the real genuis seek for the simple. Why? Perhaps the wise people understand that you can not do anything higher when you start to complicated.
+
+For instance as example. Every material is made out of atom. Atom are building stone of material. From Material you can build object. From Object you can build other objects.
+
 ## Design
 
 Design a software like building a house. First you need to know what to build.
