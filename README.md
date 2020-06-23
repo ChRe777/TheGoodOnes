@@ -27,6 +27,12 @@ https://en.wikipedia.org/wiki/SOLID
 
 In object-oriented computer programming, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable. It is not related to the GRASP software design principles. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin.[1][2][3] Though they apply to any object-oriented design, the SOLID principles can also form a core philosophy for methodologies such as agile development or adaptive software development.[3] The theory of SOLID principles was introduced by Martin in his 2000 paper Design Principles and Design Patterns,[2][4] although the SOLID acronym was introduced later by Michael Feathers.[5]
 
+## KISS
+
+https://en.wikipedia.org/wiki/KISS_principle
+
+KISS, an acronym for "keep it simple, stupid" or "keep it stupid simple", is a design principle noted by the U.S. Navy in 1960.[1][2] The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson.[3] The term "KISS principle" was in popular use by 1970.[4] Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward",[5] "keep it small and simple", or "keep it stupid simple".[6]
+
 ## Design
 
 Design a software like building a house. First you need to know what to build.
