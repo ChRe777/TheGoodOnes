@@ -90,6 +90,8 @@ LK was made by [Travis Geiselbrecht](https://github.com/travisg) see [Github](ht
 
 ## User Interface
 
+https://en.wikipedia.org/wiki/Zooming_user_interface
+https://en.wikipedia.org/wiki/Jef_Raskin
 
 ## Others
 
