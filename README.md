@@ -82,13 +82,16 @@ Read [Lernen-Gehirnforschung-die-Schule-Lebens](https://www.amazon.de/Lernen-Geh
 
 ## Persons
 
-- Jef Raskin [https://en.wikipedia.org/wiki/Jef_Raskin](https://en.wikipedia.org/wiki/Jef_Raskin)
-- Donald E. Knuth [https://de.wikipedia.org/wiki/Donald_E._Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth)
-- Niklaus Wirth [https://en.wikipedia.org/wiki/Niklaus_Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+- Jef Raskin - [https://en.wikipedia.org/wiki/Jef_Raskin](https://en.wikipedia.org/wiki/Jef_Raskin)
+- Donald E. Knuth - [https://de.wikipedia.org/wiki/Donald_E._Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth)
+- Niklaus Wirth - [https://en.wikipedia.org/wiki/Niklaus_Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 - Paul Graham - [http://www.paulgraham.com/](http://www.paulgraham.com/)
+- Martin Fowler - [https://martinfowler.com/](https://martinfowler.com/)
+- Robert C. Morris (Uncle Bob) - [http://www.cleancoder.com/](http://www.cleancoder.com/)
 
-- Ken Tompson
-- Dennis Ritchie - Unix, Plan9
+- Ken Tompson - [https://de.wikipedia.org/wiki/Ken_Thompson](Ken Thompson Wiki)
+- Dennis Ritchie - [https://www.bell-labs.com/usr/dmr/www/](Dennis Ritchie Homepage)
+- Rob Bike - [http://herpolhode.com/rob/](Rob Bike Homepage)
 
 
 ## Books/Articles
